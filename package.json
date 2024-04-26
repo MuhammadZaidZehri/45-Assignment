@@ -1,0 +1,11 @@
+{
+  "name": "45-assignment",
+  "version": "1.0.0",
+  "description": "45 Assignments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M.Zaid",
+  "license": "MIT"
+}
